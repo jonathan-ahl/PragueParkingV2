@@ -1,0 +1,38 @@
+[
+  {
+    "Nummer": 1,
+    "Storlek": 4,
+    "Fordon": [
+      { "Typ": "Bil", "RegNr": "ABC123", "Storlek": 4, "Ankomst": "2026-11-20T08:15:00" }
+    ]
+  },
+  {
+    "Nummer": 2,
+    "Storlek": 4,
+    "Fordon": [
+      { "Typ": "MC", "RegNr": "KLM789", "Storlek": 2, "Ankomst": "2026-11-20T09:02:00" },
+      { "Typ": "MC", "RegNr": "FTP666", "Storlek": 2, "Ankomst": "2026-11-20T09:40:00" }
+    ]
+  },
+  {
+    "Nummer": 3,
+    "Storlek": 4,
+    "Fordon": [
+      { "Typ": "MC", "RegNr": "ÅÄÖ12", "Storlek": 2, "Ankomst": "2026-11-20T10:30:00" }
+    ]
+  },
+  {
+    "Nummer": 7,
+    "Storlek": 4,
+    "Fordon": [
+      { "Typ": "Bil", "RegNr": "XYZ987", "Storlek": 4, "Ankomst": "2026-11-19T17:45:00" }
+    ]
+  },
+  {
+    "Nummer": 15,
+    "Storlek": 4,
+    "Fordon": [
+      { "Typ": "Bil", "RegNr": "PRG2026", "Storlek": 4, "Ankomst": "2026-11-20T12:05:00" }
+    ]
+  }
+]

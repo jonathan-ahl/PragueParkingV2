@@ -1,0 +1,12 @@
+# PRISLISTA FÖR PRAGUE PARKING
+#
+# Allt efter tecknet # är kommentarer och läses inte av programmet.
+# Ändra bara siffran efter likhetstecknet och spara filen.
+# Välj sedan "Läs in prislistan på nytt" i programmets meny.
+#
+# Pris i CZK per påbörjad timme:
+Bil = 20
+MC = 10
+
+# Antal minuter i början som är gratis:
+GratisMinuter = 10
